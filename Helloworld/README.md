@@ -16,10 +16,10 @@ Android Studio下载：http://android-studio.org/
 
 创建Android工程并同步GitHub
 
+![](https://raw.githubusercontent.com/yoooogaaaa/Android/master/Helloworld/Helloworld.png)
 
 
 
-
-推荐一个模拟器
+推荐一个模拟器：Genymotion
 
 安装教程：https://blog.csdn.net/yht2004123/article/details/80146989?ops_request_misc=&request_id=&biz_id=&utm_source=distribute.pc_search_result.none-task
