@@ -8,16 +8,17 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
+
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="89dp"
             android:layout_height="wrap_content"
             android:layout_margin="1dp"
-            android:padding="5dp"
             android:background="@drawable/textview_border"
+            android:padding="5dp"
             android:text="One,One" />
 
         <TextView
-            android:layout_width="0dp"
+            android:layout_width="158dp"
             android:layout_height="wrap_content"
             android:layout_margin="1dp"
             android:layout_weight="1"
@@ -25,13 +26,14 @@
             android:gravity="center"
             android:padding="5dp"
             android:text="One,Two" />
+
         <TextView
-            android:layout_margin="1dp"
-            android:padding="5dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_margin="1dp"
             android:background="@drawable/textview_border"
-            android:text="One,Three"/>
+            android:padding="5dp"
+            android:text="One,Three" />
 
         <TextView
             android:layout_margin="1dp"
@@ -45,23 +47,24 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="1dp"
-            android:padding="5dp"
-            android:background="@drawable/textview_border"
-            android:text="Two,One"/>
 
         <TextView
-            android:layout_width="0dp"
-            android:layout_margin="1dp"
-            android:padding="5dp"
-            android:layout_weight="1"
+            android:layout_width="89dp"
             android:layout_height="wrap_content"
+            android:layout_margin="1dp"
             android:background="@drawable/textview_border"
-            android:text="Two,Two"
-            android:gravity="center"/>
+            android:padding="5dp"
+            android:text="Two,One" />
+
+        <TextView
+            android:layout_width="179dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="1dp"
+            android:layout_weight="1"
+            android:background="@drawable/textview_border"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Two,Two" />
         <TextView
             android:layout_margin="1dp"
             android:padding="5dp"
@@ -81,24 +84,26 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
+
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="106dp"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:layout_margin="1dp"
-            android:padding="5dp"
-            android:gravity="center"
-            android:background="@drawable/textview_border"
-            android:text="Three,One"/>
-        <TextView
-            android:gravity="center"
             android:layout_margin="1dp"
             android:layout_weight="1"
-            android:padding="5dp"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
             android:background="@drawable/textview_border"
-            android:text="Three,Three"/>
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Three,One" />
+
+        <TextView
+            android:layout_width="126dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="1dp"
+            android:layout_weight="1"
+            android:background="@drawable/textview_border"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Three,Three" />
         <TextView
             android:gravity="center"
             android:layout_margin="1dp"
@@ -123,13 +128,14 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
+
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="87dp"
             android:layout_height="wrap_content"
             android:layout_margin="1dp"
-            android:padding="5dp"
             android:background="@drawable/textview_border"
-            android:text="Four,One"/>
+            android:padding="5dp"
+            android:text="Four,One" />
 
         <TextView
             android:layout_width="0dp"
