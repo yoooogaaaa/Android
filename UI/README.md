@@ -1,3 +1,5 @@
+# 实验三：UI组件
+
 一、Android ListView的用法
 
 二、创建自定义布局的AlertDialog
@@ -102,7 +104,7 @@ public class MainActivity extends AppCompatActivity {
 
 #### 实验结果：
 
-
+![](UI/image/SimpleAdapter.png)
 
 
 
