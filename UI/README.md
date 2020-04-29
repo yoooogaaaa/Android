@@ -104,7 +104,7 @@ public class MainActivity extends AppCompatActivity {
 
 #### 实验结果：
 
-![](https://github.com/yoooogaaaa/Android/blob/master/UI/image/SimpleAdapter.png?raw=true)
+![](http://m.qpic.cn/psc?/V12PiJBW3ypWPZ/8YUQ4vKPKp.vxIKbDZcdtlYG6SbjmepFqE0UW.zgHr1Ben1L2.qHmNd3iiC7zLgUW8kvtYvg7TrzNXAhFAPwDA!!/b&bo=pAIgBAAAAAADB6A!&rf=viewer_4)
 
 
 
