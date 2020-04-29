@@ -104,7 +104,9 @@ public class MainActivity extends AppCompatActivity {
 
 #### 实验结果：
 
-![](UI/image/SimpleAdapter.png)
+![](https://github.com/yoooogaaaa/Android/blob/master/UI/image/SimpleAdapter.png?raw=true)
+
+
 
 
 
@@ -299,7 +301,7 @@ public class CustomDialog extends Dialog implements View.OnClickListener {
 
 #### 实验结果：
 
-
+![](https://github.com/yoooogaaaa/Android/blob/master/UI/image/alertdialog.png?raw=true)
 
 
 
@@ -418,7 +420,7 @@ public class MainActivity extends AppCompatActivity {
 
 #### 实验结果：
 
-
+![](https://github.com/yoooogaaaa/Android/blob/master/UI/image/menu.png?raw=true)
 
 
 
@@ -749,7 +751,7 @@ public class MainActivity extends AppCompatActivity {
 
 #### 实验结果：
 
-
+![](https://github.com/yoooogaaaa/Android/blob/master/UI/image/menu2.png?raw=true)
 
 
 
