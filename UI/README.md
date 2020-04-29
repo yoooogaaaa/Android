@@ -301,7 +301,7 @@ public class CustomDialog extends Dialog implements View.OnClickListener {
 
 #### 实验结果：
 
-![](https://github.com/yoooogaaaa/Android/blob/master/UI/image/alertdialog.png?raw=true)
+![](http://m.qpic.cn/psc?/V12PiJBW3ypWPZ/8YUQ4vKPKp.vxIKbDZcdtsMSblbxq3fFvHSzgPzocltnoeAkf*sGazzaFT1wbcFz7zjba4zABiWhqMyf57JFpg!!/b&bo=KAJZAwAAAAADB1I!&rf=viewer_4)
 
 
 
@@ -420,7 +420,7 @@ public class MainActivity extends AppCompatActivity {
 
 #### 实验结果：
 
-![](https://github.com/yoooogaaaa/Android/blob/master/UI/image/menu.png?raw=true)
+![](http://m.qpic.cn/psc?/V12PiJBW3ypWPZ/yCLjTthScCcjc0qcPSGYBuag0cPwnrZdVO.7nqEvfK.urIH72tpNWfhJhZE1EzywFq1*9MgvhqreCmGZVRNg7zOH61BNRC3*ikom9dZBtUs!/b&bo=LgJdAwAAAAADF0A!&rf=viewer_4)
 
 
 
@@ -751,11 +751,4 @@ public class MainActivity extends AppCompatActivity {
 
 #### 实验结果：
 
-![](https://github.com/yoooogaaaa/Android/blob/master/UI/image/menu2.png?raw=true)
-
-
-
-
-
-
-
+![](http://m.qpic.cn/psc?/V12PiJBW3ypWPZ/8YUQ4vKPKp.vxIKbDZcdthaG8nVOy0ciMKk8t2D7j68IfFJYiZxzFHz*j5PiMS4hNWY3xyWvkyh0GwCPxtzecQ!!/b&bo=IgJTAwAAAAADB1I!&rf=viewer_4)
