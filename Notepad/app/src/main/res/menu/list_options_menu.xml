@@ -18,4 +18,16 @@
         android:icon="@android:drawable/ic_menu_search"
         android:showAsAction="always">
     </item>
+<item
+android:title="Color">
+<menu>
+    <item
+        android:title="background"
+        android:id="@+id/background_color">
+    </item>
+    <item android:id="@+id/text_color"
+        android:title="fonts">
+    </item>
 </menu>
+</item>
+    </menu>
