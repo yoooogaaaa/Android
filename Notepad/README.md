@@ -37,7 +37,9 @@ private static final String[] PROJECTION = new String[] {
 
 ```
 
-效果截图：
+效果截图：【有加图片，但是如果没有出现的话，点超链接，实在不行就私聊我】
+
+[图片A](http://m.qpic.cn/psc?/V12PiJBW3ypWPZ/8YUQ4vKPKp.vxIKbDZcdtpTSxwML4f8t0h.*kqtnwiP2R1OAEjbvMMaGaRvqek92hPZYz67p0PN5uNND599Ohg!!/b&bo=9wHuAgAAAAADBzg!&rf=viewer_4)
 
 ![](http://m.qpic.cn/psc?/V12PiJBW3ypWPZ/8YUQ4vKPKp.vxIKbDZcdtpTSxwML4f8t0h.*kqtnwiP2R1OAEjbvMMaGaRvqek92hPZYz67p0PN5uNND599Ohg!!/b&bo=9wHuAgAAAAADBzg!&rf=viewer_4)
 
@@ -219,7 +221,9 @@ public class NoteSearch extends ListActivity implements SearchView.OnQueryTextLi
     </activity>
 ```
 
-结果实现
+结果实现【有加图片，但是如果没有出现的话，点超链接，实在不行就私聊我】
+
+[图片1](http://a1.qpic.cn/psc?/V12PiJBW3ypWPZ/8YUQ4vKPKp.vxIKbDZcdtrnp6qXkEByYMK4L5N4Wvrjy0pPvcaXetNknzROM8xx9Q7iyle1mNSi7lwNExv594Q!!/b&ek=1&kp=1&pt=0&bo=EwLsAAAAAAADF88!&tl=1&vuin=758420984&tm=1590325200&sce=60-1-1&rf=viewer_4)    [图片2](http://m.qpic.cn/psc?/V12PiJBW3ypWPZ/8YUQ4vKPKp.vxIKbDZcdtr5qKHYr549SWMAWHlPvlKiTMJO6kUQpB3cYLhrD2XpEu1AspEYmlQ5bFgtcInkXjQ!!/b&bo=5wHJAgAAAAADBw8!&rf=viewer_4)
 
 ![](http://a1.qpic.cn/psc?/V12PiJBW3ypWPZ/8YUQ4vKPKp.vxIKbDZcdtrnp6qXkEByYMK4L5N4Wvrjy0pPvcaXetNknzROM8xx9Q7iyle1mNSi7lwNExv594Q!!/b&ek=1&kp=1&pt=0&bo=EwLsAAAAAAADF88!&tl=1&vuin=758420984&tm=1590325200&sce=60-1-1&rf=viewer_4)
 
